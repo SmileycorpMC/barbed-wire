@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+	"group": "barbedwire:iron_barbed_wire",
+	"pattern" : [
+		" M ",
+		"M M",
+		" M "
+	],
+    "key" : {
+		"M" : {
+    		"type": "forge:ore_dict",
+    		"ore": "ingotIron"
+        }
+	},
+    "result": {
+        "item": "barbedwire:iron_barbed_wire",
+        "count": 4
+    }
+}

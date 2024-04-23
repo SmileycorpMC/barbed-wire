@@ -1,0 +1,7 @@
+{
+	"parent": "barbedwire:block/barbed_wire",
+	"textures": {
+		"texture": "barbedwire:blocks/iron_barbed_wire",
+		"particle": "barbedwire:blocks/iron_barbed_wire"
+	}
+}

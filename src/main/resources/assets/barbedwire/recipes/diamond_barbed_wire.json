@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+	"group": "barbedwire:diamond_barbed_wire",
+	"pattern" : [
+		" M ",
+		"M M",
+		" M "
+	],
+    "key" : {
+		"M" : {
+    		"type": "forge:ore_dict",
+    		"ore": "gemDiamond"
+        }
+	},
+    "result": {
+        "item": "barbedwire:diamond_barbed_wire",
+        "count": 4
+    }
+}

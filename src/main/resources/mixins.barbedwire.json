@@ -1,0 +1,13 @@
+{
+  "compatibilityLevel": "JAVA_8",
+  "required": true,
+  "package": "net.smileycorp.barbedwire.mixin",
+  "refmap": "mixins.barbedwire.refmap.json",
+  "target": "@env(INIT)",
+  "mixins": [],
+  "client": [],
+  "server": [],
+   "injectors": {
+    "maxShiftBy": 10
+  }
+}

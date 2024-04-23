@@ -1,0 +1,14 @@
+itemGroup.barbedwire.tab=Barbed Wire
+
+item.barbedwire.DiamondNugget.name=Diamond Nugget
+
+tile.barbedwire.IronBarbedWire.name=Barbed Wire
+tile.barbedwire.GoldBarbedWire.name=Golden Barbed Wire
+tile.barbedwire.DiamondBarbedWire.name=Diamond-Encrusted Barbed Wire
+
+tooltip.barbedwire.BarbedWire=Slows and deals damage to mobs.
+tooltip.barbedwire.BarbedWire.Iron=Has Medium durability and low damage.
+tooltip.barbedwire.BarbedWire.Gold=Has Low durability and high damage.
+tooltip.barbedwire.BarbedWire.Diamond=Has Very high durability and medium damage.
+tooltip.barbedwire.BarbedWire.durability=Durability:
+death.attack.BarbedWire=%1$s met a prickly end

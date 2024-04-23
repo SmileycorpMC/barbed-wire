@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+	"group": "barbedwire:gold_barbed_wire",
+	"pattern" : [
+		" M ",
+		"M M",
+		" M "
+	],
+    "key" : {
+		"M" : {
+    		"type": "forge:ore_dict",
+    		"ore": "ingotGold"
+        }
+	},
+    "result": {
+        "item": "barbedwire:gold_barbed_wire",
+        "count": 4
+    }
+}
